@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About My self</title>
+</head>
+<body>
+    <div class="rok">
+        <h1> Education</h1>
+        <b> Name :</b> G.Sravani .
+        <br>
+        <br>
+        <b> Studying:</b> Btech 3rd year.
+        <br>
+        <br>
+        <b> College:</b> CMR Technical Campus.
+        <br>
+        <br>
+        <b> Current Cgpa :</b> 8.3
+        <br>
+        <br>
+        <b> School:</b> Gowtham Model School.
+        <br>
+        <br>
+        <b> Cgpa : </b> 9.7
+        <br>
+        <br>
+        <b> Inter:</b> Sri Vaishnavi College.
+        <br>
+        <br>
+        <b> Percentage:</b> 904
+        <br>
+        <br>
+        <h1> Skills </h1>
+        1.Fast learner
+        <br>
+        2.Communication
+        <br>
+        3.Team work
+        <br>
+        4.problem solving
+        <br>
+        5.DSA 
+        <br>
+        <h1>Technical skills</h1>
+        ->C language
+        <br>
+        ->python
+        <br>
+        ->java 
+        <br>
+        ->front-end engineering
+        <br>
+    </div>
+    <style>
+        .rok{
+            background-image: url("https://www.shutterstock.com/image-photo/project-management-diagram-time-business-260nw-1232340091.jpg");
+            background-size: cover;
+            padding: 70px;
+            color:pink;
+            font-size:large;
+        }
+    </style>
+</body>
+</html>

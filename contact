@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact</title>
+    
+</head>
+<body class="ok">
+    <div class="not">
+        <pre>
+         <h1>  Contact Details </h1>
+        <br>
+<b> Mobile number </b>: 8688506370
+<br>
+<b> Email id </b> : sravsanthu9133@gmail.com
+<br>
+<b>Linkdin profile </b>: <a href="www.linkedin.com/in/sravani-golusula-315956291"> <h3 class="colo">Linkdin profile link</h3></a>
+</pre>
+</div>
+
+<style>
+    .ok{
+        background-image: url("https://img.freepik.com/free-photo/flat-lay-arrangement-desk-elements-with-copy-space_23-2148513316.jpg");
+        background-size: cover;
+        text-align:center;
+    }
+    .not{
+        
+        color:white;
+    }
+    pre{
+        margin-top: 300px;
+    }
+    .colo{
+        color: white;
+    }
+</style>
+</body>
+</html>
